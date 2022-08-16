@@ -1,3 +1,4 @@
+# 函数的返回值
 print(bool(0))
 print(bool(1))
 
